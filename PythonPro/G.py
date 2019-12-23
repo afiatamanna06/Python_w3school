@@ -12,7 +12,7 @@ print(myset)
 print(len(theset))
 theset.remove("lemon")
 print(theset)
-theset.discard("berry")
+theset.discard("berry")/home/afia
 print(theset)
 theset.clear()
 print(theset)
